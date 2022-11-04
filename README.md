@@ -15,7 +15,11 @@ Backer contact information for "live" projects that includes additional project 
 
 ![June_Temps](https://raw.githubusercontent.com/JBro-Birds/surfs_up/master/Support/June_Temps.png)
 
+![June_Temp_Description](https://raw.githubusercontent.com/JBro-Birds/surfs_up/master/Support/June_Temp_Description.png)
 
+![Dec_Temps](https://raw.githubusercontent.com/JBro-Birds/surfs_up/master/Support/Dec_Temps.png)
+
+![Dec_Temp_Description](https://raw.githubusercontent.com/JBro-Birds/surfs_up/master/Support/Dec_Temp_Description.png)
 
 ## Summary
 
