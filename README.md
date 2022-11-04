@@ -48,7 +48,9 @@ December tempature statistics are as follows:
 
 ## Summary
 
+precipitation
 
+by-station statistics to determine if more favorabe location of island for surfing
 
 
 
