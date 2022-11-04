@@ -30,7 +30,7 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 ## Results
 
 
-June tempatures are as follows:
+June tempature subset listing is as follows:
 
 ![June_Temps](https://raw.githubusercontent.com/JBro-Birds/surfs_up/master/Support/June_Temps.png)
 
@@ -38,7 +38,7 @@ June tempature statistics are as follows:
 
 ![June_Temp_Description](https://raw.githubusercontent.com/JBro-Birds/surfs_up/master/Support/June_Temp_Description.png)
 
-December tempatures are as follows: 
+December tempature subset listing is as follows: 
 
 ![December_Temps](https://raw.githubusercontent.com/JBro-Birds/surfs_up/master/Support/December_Temps.png)
 
