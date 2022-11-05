@@ -2,11 +2,7 @@
 
 ## Overview of Project
 
-a Surf and Shake shop serving surfboards and ice cream to locals, tourists, and of course, yourself.
-
-You have some savings you're willing to invest, but we'll need some real investor backing to get this off the ground. So after putting together a strong business plan, you reach out to an investor, W. Avy, who is famous for his love of surfing. Your first meeting with him goes extremely well, but he has one concern, what about the weather?
-
-He's extremely serious about this. He invested in a surf shop early in his career. However, he didn't ask for any weather analysis and that early venture was rained out of existence. W. Avy knows you've been learning how to properly analyze data and asks if you can run some analytics on a weather data set he has from the very island where you'd like to open your shop, the beautiful Awahoo.
+With my savings I'm willing to invest in a Surf and Shake shop serving surfboards and ice cream to locals and tourists, but I'll need investor backing during the startup phase.  I've put together a strong business plan and reached out to W. Avy, an investor who is famous for his love of suring.  The initial meeting with W. Avy went well but he has a concern about how the weather would impact the business.  W. Avy was burned in the past with what ended up as a failed surf shop which he believes was due to bad weather.  W. Avy knows I'm learning how to properly analyze data and asks if I can run some analytics on a weather data set he has from the very island where I'd like to open my shop, the beautiful Awahoo.
 
 Jupyter notebook file: we will continue to use Jupyter Notebook for our weather analysis. The name of the file is climate_analysis.ipynb. This file will have all of the structure to help you get started on your analysis. Let's get started by downloading the notebook.
 
