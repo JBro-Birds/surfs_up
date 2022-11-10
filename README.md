@@ -26,6 +26,8 @@ December tempature statistics are as follows:
 
 ![December_Temp_Description](https://raw.githubusercontent.com/JBro-Birds/surfs_up/master/Support/December_Temp_Description.png)
 
+* The original six HR .csv files provided the foundation to build SQL tables and merge data together in order to produce the necessary data needed for the project.  Using the Quick DBD website the database ERD was constructed as follows:
+
 ## Summary
 
 precipitation
