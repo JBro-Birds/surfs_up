@@ -26,7 +26,7 @@ December tempature statistics are as follows:
 
 ![December_Temp_Description](https://raw.githubusercontent.com/JBro-Birds/surfs_up/master/Support/December_Temp_Description.png)
 
-*  Comparing the temperatures and temperature statistics of June and December it appears clear that the surfing-side of the business is sustainable year round.  Both months have average temperatures in the 70's 
+*  Comparing the temperatures and temperature statistics of June and December it appears clear that the surfing-side of the business is sustainable year round.  Both months have average temperatures and 50% intervals in the 70's and max temperatures in the low to mid 80's. 
 
 *  Due to lower temperatures in December the Surf and Shake shop should concentrate more on surfing activities during these months and less ice cream serving.  This means that during these winter-type months the shop should carry less ice cream inventory.  But with the 75% temperature interval being 74 degrees and the max being 83 degrees staff should keep an eye on the 10-day forecast for the potential for warmer days in order to meet the demand of any days with a rush of incoming ice cream customers.  On the surfing side of the business there may be more days that wet suits are needed to be worn in December so the shop should ensure enough wet suits are available to be rented out.
 
