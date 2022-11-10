@@ -26,7 +26,11 @@ December tempature statistics are as follows:
 
 ![December_Temp_Description](https://raw.githubusercontent.com/JBro-Birds/surfs_up/master/Support/December_Temp_Description.png)
 
-* The original six HR .csv files provided the foundation to build SQL tables and merge data together in order to produce the necessary data needed for the project.  Using the Quick DBD website the database ERD was constructed as follows:
+*  Comparing the temperatures and temperature statistics of June and December it appears clear that the surfing-side of the business is sustainable year round. Though during the month of December and most likely the surrounding months the scenario for wearing wet suits more frequently is most likely. 
+
+*  Due to lower temperatures in December, and most likely the surrounding months, the Surf and Shake shop should concentrate more on surfing activities during these months and less ice cream serving.  This means that during these winter-type months the shop should carry less ice cream inventory but more wet suit availability to rent out.
+
+*  Comparing the temperatures and temperature statistics of June and December it appears clear that the surfing-side of the business is sustainable year round. Though during the month of December and most likely the surrounding months the scenario for wearing wet suits more frequently is most likely. 
 
 ## Summary
 
