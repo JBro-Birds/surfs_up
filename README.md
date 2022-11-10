@@ -34,7 +34,7 @@ December tempature statistics are as follows:
 
 ## Summary
 
-Temperatures are a main driver for surfing and ice cream demand and the temperature analysis peformed points to a favorable decision to open the Surf and Shake shop.  But there are other weather events that can greatly impact surfing and ice cream demand.  Prior to final investor commitment and choosing the exact location of the store other queries should be run in order to have a more solid understanding of Ohau's weather, and more specifically the area targeted for the shop.  Two queries that come to mind are monthly precipitation totals and by-weather-station statistics.  The Hawaiian islands are known for drastic rain and elevation varainces from one area of an island to the next so this information should also be taken into account to make the optimal decisions.
+Temperatures are a main driver for surfing and ice cream demand and the temperature analysis peformed points to a favorable decision to open the Surf and Shake shop.  But there are other weather events that can greatly impact surfing and ice cream demand.  Prior to final investor commitment and choosing the exact location of the store other queries should be run in order to have a more solid understanding of Ohau's weather, and more specifically the area targeted for the shop.  Two queries that come to mind are monthly precipitation totals and by-weather-station statistics.  The Hawaiian islands are known for drastic rain and elevation varainces from one area of an island to the next so this information should also be taken into account to make the most optimal decisions.
 
 
 
