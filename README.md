@@ -30,7 +30,7 @@ December tempature statistics are as follows:
 
 *  Due to lower temperatures in December the Surf and Shake shop should concentrate more on surfing activities during these months and less ice cream serving.  This means that during these winter-type months the shop should carry less ice cream inventory.  But with the 75% temperature interval being 74 degrees and the max being 83 degrees staff should keep an eye on the 10-day forecast for the potential for warmer days in order to meet the demand of any days with a rush of incoming ice cream customers.  On the surfing side of the business there may be more days that wet suits are needed to be worn in December so the shop should ensure enough wet suits are available to be rented out.
 
-*  With June showing the minimal temperature in the lower 60's and December in the high 50's this would be another reason for staff to pay attention to the weather foreast.  Any days with temperatures at or close to the minimum temperature per the statistics should be used for other business activities or needs since there will most likely be less customers during such days.
+*  With June showing the minimal temperature in the lower 60's and December in the high 50's this would be another reason for staff to pay attention to the weather foreast.  Any days with temperatures at or close to these minimums should be used for other business activities or needs since there will most likely be less customers during such days.
 
 ## Summary
 
