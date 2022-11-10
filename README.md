@@ -28,7 +28,7 @@ December tempature statistics are as follows:
 
 *  Comparing the temperatures and temperature statistics of June and December it appears clear that the surfing-side of the business is sustainable year round. Though during the month of December and the surrounding months the scenario for wearing wet suits more frequently is most likely. 
 
-*  Due to lower temperatures in December and the surrounding months the Surf and Shake shop should concentrate more on surfing activities during these months and less ice cream serving.  This means that during these winter-type months the shop should carry less ice cream inventory but more wet suit availability to rent out.
+*  Due to lower temperatures in December and the surrounding months the Surf and Shake shop should concentrate more on surfing activities during these months and less ice cream serving.  This means that during these winter-type months the shop should carry less ice cream inventory but more wet suit availability to rent out.  But with the 75% temperature interval being 74 degrees and the max being 83 degrees staff should keep an eye on the 10-day forecast for the potential for warmer days in order to meet the demand of any days with a rush of incoming ice cream customers.  
 
 *  Comparing the temperatures and temperature statistics of June and December it appears clear that the surfing-side of the business is sustainable year round. Though during the month of December and most likely the surrounding months the scenario for wearing wet suits more frequently is most likely. 
 
